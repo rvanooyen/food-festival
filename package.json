@@ -2,11 +2,6 @@
   "name": "food-festival",
   "version": "1.0.0",
   "description": "",
-<<<<<<< HEAD
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
   "main": "webpack.config.js",
   "dependencies": {
     "acorn": "^8.6.0",
@@ -110,7 +105,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack --watch",
     "build": "webpack"
->>>>>>> develop
   },
   "repository": {
     "type": "git",
@@ -122,13 +116,5 @@
   "bugs": {
     "url": "https://github.com/rvanooyen/food-festival/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/rvanooyen/food-festival#readme",
-  "devDependencies": {
-    "webpack": "^5.64.4",
-    "webpack-cli": "^4.9.1"
-  }
-=======
   "homepage": "https://github.com/rvanooyen/food-festival#readme"
->>>>>>> develop
 }
